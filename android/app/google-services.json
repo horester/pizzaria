@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861882743308",
+    "firebase_url": "https://horeste-75981.firebaseio.com",
+    "project_id": "horeste-75981",
+    "storage_bucket": "horeste-75981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861882743308:android:5a15ec9c0da71305dd8c29",
+        "android_client_info": {
+          "package_name": "br.com.horeste.horeste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861882743308-jishurffs94oargdug942sv0tn6iog0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxy5ESWgZJ23DK3dj-fDYQwNubp65jUio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861882743308-jishurffs94oargdug942sv0tn6iog0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
